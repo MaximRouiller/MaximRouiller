@@ -14,4 +14,3 @@ jobs:
         with:
           feed-url: https://www.youtube.com/feeds/videos.xml?channel_id=UCiB27EAtSbAPM6gWUDIE0XA
           readme-section: youtube-feed
-          template: "[{{ title }}]({{ url }})"
