@@ -8,18 +8,16 @@
 
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaximRouiller&layout=compact)
 
-### My feeds
-
-#### YouTube
+### YouTube
 
 <!--START_SECTION:youtube-feed-->
-
+...
 <!--END_SECTION:youtube-feed-->
 
-#### Blog
+### Blog
 
 <!--START_SECTION:blog-feed-->
-
+...
 <!--END_SECTION:blog-feed-->
 
 ### Connect with me
