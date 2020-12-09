@@ -16,10 +16,11 @@
 }
 </style> -->
 
-<div id="social">
-    <ul>
-        <li><a style="color: red;" href="https://twitter.com/MaximRouiller">Twitter</a></li>
-        <li><a href="https://twitch.tv/MaximeRouiller">Twitch</a></li>
-        <li><a href="https://youtube.com/c/MaximeRouiller">YouTube</a></li>
+<div align="center">
+    <a href="https://twitter.com/MaximRouiller">Twitter</a>
+
+<a href="https://twitch.tv/MaximeRouiller">Twitch</a>
+    
+<a href="https://youtube.com/c/MaximeRouiller"><img alt="YouTube" src="./images/youtube_social_square_red.png"/></a>
     </ul>
 </div>
