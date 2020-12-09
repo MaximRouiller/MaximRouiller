@@ -8,19 +8,19 @@
 
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaximRouiller&layout=compact)
 
+### My feeds
+
+|YouTube| Blog  |
+|:---:	|:---:	|
+|   	|   	|
+
+<!--START_SECTION:youtube-feed-->
+...
+<!--END_SECTION:youtube-feed-->
 ### Connect with me
-<!-- 
-<style>
-#social a {
- color: red;
-}
-</style> -->
 
-<div align="center">
-    <a href="https://twitter.com/MaximRouiller">Twitter</a>
-
-<a href="https://twitch.tv/MaximeRouiller">Twitch</a>
-    
-<a href="https://youtube.com/c/MaximeRouiller"><img alt="YouTube" src="./images/youtube_social_square_red.png"/></a>
-    </ul>
-</div>
+<p align="center">
+    <a href="https://twitter.com/MaximRouiller"><img alt="Twitter" src="./images/twitter.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://twitch.tv/MaximeRouiller"><img alt="Twitch" src="./images/twitch.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://youtube.com/c/MaximeRouiller"><img alt="YouTube" src="./images/youtube.png"/></a>
+</p>
