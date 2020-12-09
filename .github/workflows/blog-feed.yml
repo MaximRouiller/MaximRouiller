@@ -1,0 +1,16 @@
+name: Update Blog feed
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Once a day at 8 AM
+    - cron: 0 23 * * *
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: JasonEtco/rss-to-readme@v1
+        with:
+          feed-url: https://blog.maximerouiller.com/atom.xml
+          readme-section: blog-feed
