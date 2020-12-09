@@ -3,7 +3,6 @@ name: Update YouTube channel feed
 on:
   workflow_dispatch:
   schedule:
-    # Once a day at 8 AM
     - cron: 0 23 * * *
 
 jobs:
