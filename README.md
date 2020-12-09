@@ -13,10 +13,12 @@
 #### YouTube
 
 <!--START_SECTION:youtube-feed-->
+
 <!--END_SECTION:youtube-feed-->
 #### Blog
 
 <!--START_SECTION:blog-feed-->
+
 <!--END_SECTION:blog-feed-->
 
 ### Connect with me
