@@ -1,16 +1,23 @@
-### Hi there 👋
+## Hello my name is Maxime Rouiller 👋
 
-<!--
-**MaximRouiller/MaximRouiller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My Tech Stacks
 
-Here are some ideas to get you started:
+* C#
+* JavaScript
+* Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaximRouiller&layout=compact)
+
+### Connect with me
+
+<style>
+#something a { color: red}
+</style>
+
+<div id="something">
+    <ul>
+        <li><a href="https://twitter.com/MaximRouiller">Twitter</a></li>
+        <li><a href="https://twitch.tv/MaximeRouiller">Twitch</a></li>
+        <li><a href="https://youtube.com/c/MaximeRouiller">YouTube</a></li>
+    </ul>
+</div>
