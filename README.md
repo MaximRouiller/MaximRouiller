@@ -12,7 +12,7 @@
 
 <!--START_SECTION:youtube-feed-->
 * [[FIRST IMPRESSION] I&#39;m testing GitHub Copilot and it&#39;s blowing my mind!!](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;qC1MBFb3g8s)
-* [OMG... AI overlord take the wheel!](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;r0IQRuNktKo)
+* [OMG... AI overlord take the wheel!](https:&#x2F;&#x2F;www.youtube.com&#x2F;shorts&#x2F;r0IQRuNktKo)
 * [Getting starting with VuePress and local development](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;i8jWz0aVZ4c)
 * [Azure Storage Copy From URL without Network traffic in C#](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;aGMoYt_fWsg)
 * [Project Coyote Livestream](https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;pMkw9kVup7Q)
